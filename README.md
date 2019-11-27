@@ -20,6 +20,8 @@
 
 <img src="https://i.imgur.com/C4S4hKS.png" width="100"><img>
 
+## 使用方法
+
 <img src="https://i.imgur.com/UCVNtEb.png" width="200"><img>
 
 使用方法很簡單 加入好友之後點選下方"點我開始對發票～"
@@ -40,6 +42,8 @@
 
 但還是希望Line官方趕快推出Android版本的掃發票功能😭
 
+---
+
 那另外大家可能會想 我的發票會不會傳出去給別人知道
 
 這是不會的 因為現在Line在推廣的功能就是讓Line有辦法像App一樣開一個小App視窗
@@ -47,5 +51,7 @@
 我們稱為LIFF(LINE Front-end Framework)
 
 所以這個發票大獅兄並沒有連到對外的伺服器 就是像"載一個App這樣" 我一直覺得很酷很方便
+
+---
 
 最後 希望大家能夠喜歡 並且能發票中滿滿🤗
